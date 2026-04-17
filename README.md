@@ -18,7 +18,7 @@ The result is a tiny planner that helps you answer a practical question before y
 - Get model-fit suggestions per task type
 
 ## Demo link
-Live URL: _to be filled after deploy_
+Live URL: https://edwardxiong2027.github.io/daily-ai-2026-04-17-parallel-agent-planner/
 
 ## Build / run locally
 Because this is a static site, no build step is required.
